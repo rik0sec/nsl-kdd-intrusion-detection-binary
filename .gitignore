@@ -1,0 +1,21 @@
+# Dataset (diunduh manual dari Kaggle, tidak di-commit)
+data/*.txt
+data/*.csv
+data/*.arff
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
